@@ -1,0 +1,2 @@
+#primaryColorLight
+#accentColor
